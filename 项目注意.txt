@@ -1,0 +1,2 @@
+如需正确运行程序，需要将src/main/java/com/example/HttpUtil文件夹下的ConstsUrl.java中String ip="192.168.199.249"改为当前正确IP地址
+每次作业均需修改
